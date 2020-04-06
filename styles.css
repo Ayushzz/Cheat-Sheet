@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+}
+h2{
+  color: purple;
+}
+table{
+  border: 2px solid purple;
+}
+th{
+  border: 1px solid purple;
+  background-color:pink;
+}
+td{
+  border-bottom: 1px solid purple;
+}
